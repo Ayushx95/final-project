@@ -22,7 +22,7 @@ To run this project, install it locally using npm:
 
 - git clone git@github.com:Ayushx95/final-project.git
 ```
-  $ cd E-Commerce-Website-using-ReactJS-NodeJS
+  $ cd final-project
 ```
 - To Run Backend
   - open terminal 
